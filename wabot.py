@@ -1,6 +1,7 @@
 import json 
 import requests
-import datetime 
+import datetime
+import virtualenv 
 
 class WABot():
     def __init__(self, json):
